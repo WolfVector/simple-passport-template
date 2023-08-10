@@ -32,8 +32,12 @@ $ npm run dev
 
 This will run the application using nodemon, in this way you will be able to make changes and the server will restart automatically.
 
+Open the application with the next url: <a href="http://localhost:3000">http://localhost:3000</a>
+
 ## Run in prod
 
 ```bash
 $ npm run start
 ```
+
+Open the application with the next url: <a href="http://localhost:3000">http://localhost:3000</a>
